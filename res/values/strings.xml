@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomView</string>
+    <string name="menu_settings">Settings</string>
+    <string name="champions">Champions</string>
+    <string name="shop">Shop</string>
+    <string name="items">Items</string>
+    <string name="champions_html">http://na.leagueoflegends.com/champions</string>
+    <string name="item_html">http://na.leagueoflegends.com/items</string>
+    
+    <!-- Dialog strings -->
+    <string name="dialog_fire_missiles">Warning! This app connects to the internet.</string>
+    <string name="dialog_parser">Sorry! The app could not get the information.</string>
+    <string name="connection_parser">The app could not connect to the store! This could be a result of your network
+        being down, or the Riot servers being down.</string>
+    <string name="network_warning_dialog">NetworkDialog</string>
+    <string name="parser_error_dialog">ParserDialog</string>
+    <string name="connection_error_dialog">ConnectionDialog</string>
+    <string name="fire">@android:string/ok</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    
+</resources>
